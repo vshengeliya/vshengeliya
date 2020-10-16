@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Veronika!
-I'm a Fullstack Software Engineer that recently greaduated from Flatiron school
+I'm a Fullstack Software Engineer that recently greaduated from Flatiron school.
 
-- 🔭 I’m currently working on my Fital aproject app Volunteer
+- 🔭 I’m currently working on my Final project Volunteer
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on fun projects
 - 🤔 I’m looking for help with job search.
