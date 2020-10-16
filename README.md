@@ -6,7 +6,18 @@ I'm a Full Stack Software Engineer who recently graduated from Flatiron school
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on fun projects
 - 🤔 I’m looking for help with job search.
-- 📫 How to reach me: https://www.linkedin.com/in/veronikashengeliya/
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/veronikashengeliya/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)](https://github.com/vshengeliya/github-readme-stats)
 ![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&hide=contribs,prs)
