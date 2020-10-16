@@ -8,7 +8,7 @@ I'm a Fullstack Software Engineer that recently greaduated from Flatiron school.
 - 🤔 I’m looking for help with job search.
 - 📫 How to reach me: https://www.linkedin.com/in/veronikashengeliya/
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/vshengeliya?username=vshengeliya)](https://github.com/anuraghazra/github-readme-stats)
+[![Veronika's stats](https://github-readme-stats.vercel.app/api/vshengeliya?username=vshengeliya)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
