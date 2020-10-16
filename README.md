@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
 I'm a Fullstack Software Engineer that recently greaduated from Flatiron school.
 
