@@ -8,9 +8,10 @@ I'm a Fullstack Software Engineer that recently greaduated from Flatiron school.
 - 🤔 I’m looking for help with job search.
 - 📫 How to reach me: https://www.linkedin.com/in/veronikashengeliya/
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)](https://github.com/vshengeliya/github-readme-stats)
 ![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)](https://github.com/vshengeliya/github-readme-stats)
+
 
 
 <!--
