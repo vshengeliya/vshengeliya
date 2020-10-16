@@ -10,7 +10,7 @@ I'm a Fullstack Software Engineer that recently greaduated from Flatiron school.
 
 ![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya)](https://github.com/vshengeliya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)](https://github.com/vshengeliya/github-readme-stats)
 
 
 <!--
