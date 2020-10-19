@@ -18,7 +18,8 @@ I'm a Full Stack Software Engineer who recently graduated from Flatiron school
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)](https://github.com/vshengeliya/github-readme-stats)
 ![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&count_private=true&show_icons=true)
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][2])]
+[2]: https://www.linkedin.com/in/veronikashengeliya/
 
 
 
