@@ -7,7 +7,7 @@ I'm a Full Stack Software Engineer who recently graduated from Flatiron school
 - 🔭 I’m currently working on my Final project Volunteer
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on fun projects
-- 📫 How to reach me @ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/)
+- 📫 Reach me out &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/)
 
 ### Check my blogs:
  - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Basics about Promise-JavaScript](https://medium.com/@v.shengeliya/basics-about-promise-javascript-663a85edb1c2)<br>
