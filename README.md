@@ -2,12 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
-I'm a Full Stack Software Engineer who recently graduated from Flatiron school
+I'm a Full Stack Software Engineer experienced in JavaScript, React, Ruby, Ruby on Rails who recently graduated from Flatiron school.
 
-- 🔭 I’m currently working on my Final project Volunteer
+- 🔭 I’m currently working on my project Volunteer
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on fun projects
-- 📫 Reach me out @ &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/)
+- 🤔 I'm looking for help with trying to find my first software engineering job in this current job climate.
+- 📫 How Reach me out: <br>
+ - &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/)
+ - &nbsp;&nbsp; [Email](v.shengeliya@gmail.com)
 
 ### Check my blogs:
  - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://medium.com/@v.shengeliya/basics-about-promise-javascript-663a85edb1c2)<br>
