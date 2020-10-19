@@ -1,4 +1,4 @@
-<img scr="https://media.theeverymom.com/wp-content/uploads/2020/09/29105329/TheEverymom-0920-October2020-Techbackgrounds-Calendar4-Desktop-small.jpg"/>
+<img src="https://media.theeverymom.com/wp-content/uploads/2020/09/29105329/TheEverymom-0920-October2020-Techbackgrounds-Calendar4-Desktop-small.jpg"/>
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
