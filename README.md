@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
-I'm a Full Stack Software Engineer experienced in JavaScript, React, Ruby, Ruby on Rails who recently graduated from Flatiron school.
+Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such as Rails and React with a background in e-commerce Finance team providing financial reports and metrics utilizing database tools. Possess strong skills in cross-functional team collaboration that helps companies to reach their goals as well as drive profitability. Seeking opportunities to apply my technical skills in web development along with my passion for user experience and creative design.
 
 - 🔭 I’m currently working on my project Volunteer
 - 🌱 I’m currently learning Redux
