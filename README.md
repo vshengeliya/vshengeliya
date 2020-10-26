@@ -8,7 +8,7 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 - 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on fun projects
 - 🤔 I'm looking for help with trying to find my first software engineering job.
-- 📫 Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/).
+- 📫 Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/)
 
 ### Check my blogs:
  - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://medium.com/@v.shengeliya/basics-about-promise-javascript-663a85edb1c2)<br>
