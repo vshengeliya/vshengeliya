@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/67/85/BOTbCr.jpg''/>
+<img src="https://cdn.wallpapersafari.com/67/85/BOTbCr.jpg"""/>
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
