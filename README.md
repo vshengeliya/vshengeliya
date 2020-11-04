@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/67/85/BOTbCr.jpg"/>
+<img src="https://pineconedream.com/wp-content/uploads/2020/10/Nov2020_Desktop1_Pineconedream-848x400.jpg"/>
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
