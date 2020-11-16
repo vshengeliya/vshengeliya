@@ -10,10 +10,10 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 - 🤔 I'm looking for help with trying to find my first software engineering job.
 - 📫 Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/).
 
-### Check my stared below projects:
-- &nbsp;&nbsp; Volunteer ([GitHub](https://github.com/vshengeliya/volunteer_frontend), [Demo](https://www.youtube.com/watch?v=Su-lPvynOsk))<br>
-- &nbsp;&nbsp; Flatiron Furniture [GitHub](https://github.com/vshengeliya/flatiron_furniture), [Demo](https://www.youtube.com/watch?v=uJ8aHeDJoUQ)<br>
-- &nbsp;&nbsp; Puppy Link [GitHub](https://github.com/vshengeliya/Puppy_LInk), [Demo](https://www.youtube.com/watch?v=khBJLoUQYjQ)<br>
+### Check my starred below projects:
+- &nbsp;&nbsp; Volunteer  - classified app ([GitHub](https://github.com/vshengeliya/volunteer_frontend), [Demo](https://www.youtube.com/watch?v=Su-lPvynOsk))<br>
+- &nbsp;&nbsp; Flatiron Furniture - e-commerce ([GitHub](https://github.com/vshengeliya/flatiron_furniture), [Demo](https://www.youtube.com/watch?v=uJ8aHeDJoUQ))<br>
+- &nbsp;&nbsp; Puppy Link - classified app ([GitHub](https://github.com/vshengeliya/Puppy_LInk), [Demo](https://www.youtube.com/watch?v=khBJLoUQYjQ))<br>
 
 ### Check my blogs:
  - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://medium.com/@v.shengeliya/basics-about-promise-javascript-663a85edb1c2)<br>
