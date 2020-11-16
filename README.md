@@ -10,6 +10,9 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 - 🤔 I'm looking for help with trying to find my first software engineering job.
 - 📫 Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/).
 
+### Check my recent projects:
+- &nbsp;&nbsp; [Volunteer](https://github/vshengeliya/bolunteer_frontend), [See Demo](https://www.youtube.com/watch?v=Su-lPvynOsk)<br>
+
 ### Check my blogs:
  - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://medium.com/@v.shengeliya/basics-about-promise-javascript-663a85edb1c2)<br>
  - &nbsp;&nbsp; [The top 10 interview questions in React.js](https://medium.com/@v.shengeliya/the-top-10-interview-questions-in-react-js-75529677f971)<br>
