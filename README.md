@@ -16,10 +16,11 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 - &nbsp;&nbsp; [Puppy Link](https://github.com/vshengeliya/Puppy_LInk) - classified app ([Demo](https://www.youtube.com/watch?v=khBJLoUQYjQ))<br>
 
 ### Check my blogs:
- - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://medium.com/@v.shengeliya/basics-about-promise-javascript-663a85edb1c2)<br>
- - &nbsp;&nbsp; [The top 10 interview questions in React.js](https://medium.com/@v.shengeliya/the-top-10-interview-questions-in-react-js-75529677f971)<br>
- - &nbsp;&nbsp; [Sinatra Framework. Defining the Routes](https://medium.com/@v.shengeliya/sinatra-is-a-rack-based-domain-specific-language-dsl-implemented-in-ruby-thats-used-to-built-a7f206dfcdae)<br>
- - &nbsp;&nbsp; [Women who code. Why do we need women in Tech?](https://medium.com/@v.shengeliya/why-do-we-need-women-in-tech-8a88b17109b5)
+ - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://vshengeliya.medium.com/basics-about-promise-javascript-663a85edb1c2)<br>
+ - &nbsp;&nbsp; [The top 10 interview questions in React.js](https://vshengeliya.medium.com/the-top-10-interview-questions-in-react-js-75529677f971)<br>
+ - &nbsp;&nbsp; [Sinatra Framework. Defining the Routes](https://vshengeliya.medium.com/sinatra-is-a-rack-based-domain-specific-language-dsl-implemented-in-ruby-thats-used-to-built-a7f206dfcdae)<br>
+ - &nbsp;&nbsp; [Women who code. Why do we need women in Tech?](https://vshengeliya.medium.com/why-do-we-need-women-in-tech-8a88b17109b5)
+ - &nbsp;&nbsp; [Introduction to Recursion in JavaScript](https://vshengeliya.medium.com/introduction-to-recursion-in-javascript-2cca77ce45dd)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)](https://github.com/vshengeliya/github-readme-stats)
 ![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&count_private=true&show_icons=true)
