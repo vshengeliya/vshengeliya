@@ -4,7 +4,6 @@
 ### Hi there 👋, I'm Veronika!
 Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such as Rails and React with a background in e-commerce providing financial reports and metrics utilizing database tools. Possess strong skills in cross-functional team collaboration that helps companies to reach their goals as well as drive profitability. Seeking opportunities to apply my technical skills in web development along with my passion for user experience and creative design.
 
-
 - 🔭  &nbsp;&nbsp; I’m currently working on my project [Volunteer](https://github.com/vshengeliya/volunteer_frontend)
 - 🌱  &nbsp;&nbsp; I'm currently learning [Algorithms and Data Structures](https://github.com/vshengeliya/algos-practice)
 - 👯  &nbsp;&nbsp; I’m looking to collaborate on fun projects
