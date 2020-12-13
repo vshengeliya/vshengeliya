@@ -10,6 +10,7 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 - 🤔  &nbsp;&nbsp; I'm looking for help with trying to find my first software engineering job.
 - 📫  &nbsp;&nbsp; Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/).
 
+
 ### Check my starred below projects:
 - &nbsp;&nbsp; [Volunteer](https://github.com/vshengeliya/volunteer_frontend)  - classified app ([Demo](https://www.youtube.com/watch?v=Su-lPvynOsk))<br>
 - &nbsp;&nbsp; [Flatiron Furniture](https://github.com/vshengeliya/flatiron_furniture) - e-commerce ([Demo](https://www.youtube.com/watch?v=uJ8aHeDJoUQ))<br>
