@@ -1,4 +1,4 @@
-<img src="https://www.silocreativo.com/en/wp-content/uploads/2018/12/calendar-january-2019-downloadable.png"/>
+<img src="https://wallpaperaccess.com/full/3630701.jpg"/>
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
