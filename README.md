@@ -16,7 +16,6 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 ### Check my blogs:
  - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://vshengeliya.medium.com/basics-about-promise-javascript-663a85edb1c2)<br>
  - &nbsp;&nbsp; [The top 10 interview questions in React.js](https://vshengeliya.medium.com/the-top-10-interview-questions-in-react-js-75529677f971)<br>
- - &nbsp;&nbsp; [Sinatra Framework. Defining the Routes](https://vshengeliya.medium.com/sinatra-is-a-rack-based-domain-specific-language-dsl-implemented-in-ruby-thats-used-to-built-a7f206dfcdae)<br>
  - &nbsp;&nbsp; [Women who code. Why do we need women in Tech?](https://vshengeliya.medium.com/why-do-we-need-women-in-tech-8a88b17109b5)
  - &nbsp;&nbsp; [Introduction to Recursion in JavaScript](https://vshengeliya.medium.com/introduction-to-recursion-in-javascript-2cca77ce45dd)
  - &nbsp;&nbsp; [React Hooks: useState and useEffect](https://medium.com/swlh/reactjs-hooks-usestate-and-useeffect-795f46a27042)
