@@ -19,6 +19,8 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
  - &nbsp;&nbsp; [Sinatra Framework. Defining the Routes](https://vshengeliya.medium.com/sinatra-is-a-rack-based-domain-specific-language-dsl-implemented-in-ruby-thats-used-to-built-a7f206dfcdae)<br>
  - &nbsp;&nbsp; [Women who code. Why do we need women in Tech?](https://vshengeliya.medium.com/why-do-we-need-women-in-tech-8a88b17109b5)
  - &nbsp;&nbsp; [Introduction to Recursion in JavaScript](https://vshengeliya.medium.com/introduction-to-recursion-in-javascript-2cca77ce45dd)
+ - &nbsp;&nbsp; [React Hooks: useState and useEffect](https://medium.com/swlh/reactjs-hooks-usestate-and-useeffect-795f46a27042)
+ - &nbsp;&nbsp; [3 common Algorithm Questions](https://vshengeliya.medium.com/3-common-algorithm-questions-ec69f5df37e0)
  - &nbsp;&nbsp; [Generate random string in JavaScript](https://vshengeliya.medium.com/generate-random-string-in-javascript-27477fe9abc9)
  - &nbsp;&nbsp; [My mini Moc Tech Interview](https://vshengeliya.medium.com/my-mini-moc-tech-interview-a8a98cbd4aca)
 
