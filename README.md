@@ -21,6 +21,8 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
  - &nbsp;&nbsp; [Sinatra Framework. Defining the Routes](https://vshengeliya.medium.com/sinatra-is-a-rack-based-domain-specific-language-dsl-implemented-in-ruby-thats-used-to-built-a7f206dfcdae)<br>
  - &nbsp;&nbsp; [Women who code. Why do we need women in Tech?](https://vshengeliya.medium.com/why-do-we-need-women-in-tech-8a88b17109b5)
  - &nbsp;&nbsp; [Introduction to Recursion in JavaScript](https://vshengeliya.medium.com/introduction-to-recursion-in-javascript-2cca77ce45dd)
+ - &nbsp;&nbsp; [Generate random string in JavaScript](https://vshengeliya.medium.com/generate-random-string-in-javascript-27477fe9abc9)
+ - &nbsp;&nbsp; [My mini Moc Tech Interview](https://vshengeliya.medium.com/my-mini-moc-tech-interview-a8a98cbd4aca)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)](https://github.com/vshengeliya/github-readme-stats)
 ![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&count_private=true&show_icons=true)
