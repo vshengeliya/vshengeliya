@@ -6,7 +6,6 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 
 - 🌱  &nbsp;&nbsp; I'm currently learning [Algorithms and Data Structures](https://github.com/vshengeliya/algos-practice)
 - 👯  &nbsp;&nbsp; I’m looking to collaborate on fun projects
-- 🤔  &nbsp;&nbsp; I'm looking for help with trying to find my first software engineering job.
 - 📫  &nbsp;&nbsp; Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/).
 
 ### Check my starred below projects:
