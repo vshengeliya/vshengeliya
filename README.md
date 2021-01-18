@@ -25,7 +25,6 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
  - &nbsp;&nbsp; [My mini Moc Tech Interview](https://vshengeliya.medium.com/my-mini-moc-tech-interview-a8a98cbd4aca)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)
-[Stats](https://github.com/vshengeliya/github-readme-stats)
 ![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&count_private=true&show_icons=true)
 
 
