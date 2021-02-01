@@ -14,7 +14,7 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 - &nbsp;&nbsp; [Flatiron Furniture](https://github.com/vshengeliya/flatiron_furniture) - e-commerce ([Demo](https://www.youtube.com/watch?v=uJ8aHeDJoUQ))<br>
 - &nbsp;&nbsp; [Puppy Link](https://github.com/vshengeliya/Puppy_LInk) - classified app ([Demo](https://www.youtube.com/watch?v=khBJLoUQYjQ))<br>
 
-### Check my blogs:
+### Check my blogs [here](https://vshengeliya.medium.com/)
  - &nbsp;&nbsp; [Basics about Promise-JavaScript](https://vshengeliya.medium.com/basics-about-promise-javascript-663a85edb1c2)<br>
  - &nbsp;&nbsp; [The top 10 interview questions in React.js](https://vshengeliya.medium.com/the-top-10-interview-questions-in-react-js-75529677f971)<br>
  - &nbsp;&nbsp; [Women who code. Why do we need women in Tech?](https://vshengeliya.medium.com/why-do-we-need-women-in-tech-8a88b17109b5)
