@@ -10,9 +10,9 @@ Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such 
 
 
 ### Check my starred below projects:
-- &nbsp;&nbsp; [Volunteer](https://github.com/vshengeliya/volunteer_frontend)  - classified app ([Demo](https://www.youtube.com/watch?v=Su-lPvynOsk))<br>
-- &nbsp;&nbsp; [Flatiron Furniture](https://github.com/vshengeliya/flatiron_furniture) - e-commerce ([Demo](https://www.youtube.com/watch?v=uJ8aHeDJoUQ))<br>
-- &nbsp;&nbsp; [Puppy Link](https://github.com/vshengeliya/Puppy_LInk) - classified app ([Demo](https://www.youtube.com/watch?v=khBJLoUQYjQ))<br>
+- &nbsp;&nbsp; [Volunteer](https://github.com/vshengeliya/volunteer_frontend)  - Full-stack classified app ([Demo](https://www.youtube.com/watch?v=Su-lPvynOsk))<br>
+- &nbsp;&nbsp; [Flatiron Furniture](https://github.com/vshengeliya/flatiron_furniture) - Full-stack e-commerce ([Demo](https://www.youtube.com/watch?v=uJ8aHeDJoUQ))<br>
+- &nbsp;&nbsp; [Puppy Link](https://github.com/vshengeliya/Puppy_LInk) - Full-stack classified app ([Demo](https://www.youtube.com/watch?v=khBJLoUQYjQ))<br>
 
 ### Check my blogs [here](https://vshengeliya.medium.com/)
 
