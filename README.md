@@ -4,7 +4,7 @@
 ### Hi there 👋, I'm Veronika!
 Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such as Rails and React with a background in e-commerce providing financial reports and metrics utilizing database tools. Possess strong skills in cross-functional team collaboration that helps companies to reach their goals as well as drive profitability. Seeking opportunities to apply my technical skills in web development along with my passion for user experience and creative design.
 
-- 🌱  &nbsp;&nbsp; I'm currently learning Node JS with React
+- 🌱  &nbsp;&nbsp; I'm currently learning working on React App called [Burger Builder](https://github.com/vshengeliya/burger-builder).
 - 👯  &nbsp;&nbsp; I’m looking to collaborate on fun projects
 - 📫  &nbsp;&nbsp; Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/).
 
