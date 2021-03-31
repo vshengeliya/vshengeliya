@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/proxy/VcUtAqqtnGaAAkk4dZScS2RSaR7NL3l_kc78OPY09ettwDaXeYLrHzlsobmTwCvP0_7JM41jtOQx4Cqlqh9Ze_7XoqLPlhfB_YDPc5eWPCxdv3qdC1obSh2qo7Ian-oOCFzBp8jUSSGIv7Vg"/>
+<img src="http://www.baltana.com/files/calendar/April-2021-Calendar-Beetle-Wallpaper-72162.jpg"/>
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
