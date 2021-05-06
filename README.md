@@ -1,4 +1,4 @@
-<img src="http://www.baltana.com/files/calendar/April-2021-Calendar-Beetle-Wallpaper-72162.jpg"/>
+<img src="https://i.pinimg.com/originals/44/51/5b/44515b161fc0922f2d11d2de73840edb.png"/>
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
