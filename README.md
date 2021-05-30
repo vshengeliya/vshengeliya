@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/d8/57/c3/d857c3de45f4766b0a82e1326a0261f7.jpg"/>
+<img src="https://wallpaperaccess.com/full/5650070.jpg"/>
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
