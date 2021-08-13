@@ -1,4 +1,4 @@
-<img src="https://cdn-apggb.nitrocdn.com/LzbfelFnrubfWWOPIrfJxIsGugDTgtLD/assets/static/source/rev-2d4daa6/wp-content/uploads/2021/06/July2021Wallpapers-Sunday-07.jpg"/>
+
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
