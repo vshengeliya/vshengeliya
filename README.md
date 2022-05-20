@@ -2,7 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=vshengeliya&color=blue)
 ### Hi there 👋, I'm Veronika!
-Full-Stack Software Engineer experienced in Ruby and JavaScript frameworks such as Rails and React with a background in e-commerce providing financial reports and metrics utilizing database tools. Possess strong skills in cross-functional team collaboration that helps companies to reach their goals as well as drive profitability.
+Full-Stack Software Engineer experienced in Java, Ruby and JavaScript frameworks such as React and Angular with a background in e-commerce providing financial reports and metrics utilizing database tools. Possess strong skills in cross-functional team collaboration that helps companies to reach their goals as well as drive profitability.
+
+Please note, due to inability linking my corporate Github acccount - I'm shraring a screen shot of my contributoons here.
 
 - 🌱  &nbsp;&nbsp; I’m currently learning Java
 - 👯  &nbsp;&nbsp; I’m looking to collaborate on fun projects
