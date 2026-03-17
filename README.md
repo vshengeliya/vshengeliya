@@ -4,9 +4,6 @@
 ### Hi there 👋, I'm Veronika!
 Full-Stack Software Engineer experienced in Java, Ruby and JavaScript frameworks such as React and Angular with a background in e-commerce providing financial reports and metrics utilizing database tools. Possess strong skills in cross-functional team collaboration that helps companies to reach their goals as well as drive profitability.
 
-Please note, due to the inability to link my Corporate Github account - I'm sharing a screenshot of my contributions here.
-<img width="623" alt="Veronika's contributions" src="https://user-images.githubusercontent.com/57597263/169546418-402ddf93-5195-4fdd-aeda-36820e80a08b.PNG">
-
 - 🌱  &nbsp;&nbsp; I’m currently working in Corporate Finance coding in Java and Angular
 - 👯  &nbsp;&nbsp; I’m looking to collaborate on fun projects
 - 📫  &nbsp;&nbsp; Reach out: &nbsp;[LinkedIn](https://www.linkedin.com/in/veronikashengeliya/).
