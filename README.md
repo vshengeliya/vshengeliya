@@ -17,13 +17,6 @@ Please note, due to the inability to link my Corporate Github account - I'm shar
 - &nbsp;&nbsp; [Flatiron Furniture](https://github.com/vshengeliya/flatiron_furniture) - Full-stack e-commerce ([Demo](https://www.youtube.com/watch?v=uJ8aHeDJoUQ))<br>
 - &nbsp;&nbsp; [Puppy Link](https://github.com/vshengeliya/Puppy_LInk) - Full-stack classified app ([Demo](https://www.youtube.com/watch?v=khBJLoUQYjQ))<br>
 
-### Check my blogs [here](https://vshengeliya.medium.com/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vshengeliya&layout=compact)
-![Veronika's github stats](https://github-readme-stats.vercel.app/api?username=vshengeliya&count_private=true&show_icons=true)
-
-
-
 <!--
 **vshengeliya/vshengeliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
